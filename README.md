@@ -49,7 +49,7 @@ The project aims to provide a robust security layer for Java applications using 
 
 ### Contributors
 
-- [Your Name] - [Your GitHub Profile]
+- [Md. Taslim Hosen Shanto] - [https://github.com/Shanto06]
 
 ### License
 
